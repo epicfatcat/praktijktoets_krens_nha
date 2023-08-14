@@ -1,0 +1,17 @@
+#button { padding: .5em 1em; text-decoration: none; }
+
+p {
+padding-left: 0.4em;
+}
+
+button{
+    background-color:rgb(207, 91, 2);
+    color: white;
+    padding: 10px;
+    border-color: rgb(207, 91, 2);
+}
+
+button:active{ 
+    background-color: rgb(169, 73, 0);
+}
+  
